@@ -115,7 +115,7 @@ def task4():
     print('Check:', np.allclose((M @ vertices.T).T, V3))
 
 
-   # task1()
-    #task2()
-    #task3()
-    task4()
+#task1()
+#task2()
+#task3()
+task4()
